@@ -1,0 +1,23 @@
+.default-sidebar {
+    margin: 32px 0px 40px 40px;
+    background-color: white;
+    height: calc(100vh - 400px);
+    min-height:  550px;
+    border-radius: 25px;
+}
+
+.float-menu { 
+    cursor: pointer; 
+}
+
+.float-sidebar {
+    position:absolute;
+    top: 150px;
+    z-index: 10;
+    margin: 32px 0px 40px 40px;
+    background-color: white;
+    height: calc(100vh - 400px);
+    width: 30vw;
+    min-height: 250px;
+    border-radius: 25px;
+}

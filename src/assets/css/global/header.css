@@ -1,0 +1,14 @@
+.default-header {
+    border-radius: 50px 50px 0 0;
+    padding: 30px 20px 0px 20px;
+    height: 150px;
+    background-color:hsl(195, 53%, 79%);
+    color: white;
+}
+
+.default-header-title{
+    font-weight: bold;
+    font-size: 40px;
+    margin: 0px;
+    text-align: center;
+}

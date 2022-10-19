@@ -1,0 +1,14 @@
+.default-page {
+    margin: 50px;
+    background-color: white;
+    height: calc(100vh - 400px);
+    min-height:  550px;
+    border-radius: 25px;
+}
+
+.main-page {
+    top: 180px;
+    height: calc(100vh - 180px);
+    background-color: rgb(235, 250, 255);
+    min-height:  550px;
+}

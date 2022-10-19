@@ -1,0 +1,40 @@
+.text-field-form {
+    background-color: #F3F3F3;
+    width: 100%
+}
+
+.title-form {
+    border-radius: 20px 20px 10px 10px;
+    padding: 30px 20px 0px 20px;
+    background-color:hsl(195, 53%, 79%);
+    text-align: center;
+    color: white;
+}
+
+.modal-form  {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    min-width: 350px;
+    max-width: 600px;
+}
+
+.error-message-form {
+    color: red;
+    font-size: 12px;
+    padding-left: 10px;
+    width: 100%;
+}
+
+.main-error-message-form {
+    color: #721c24;
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+    padding: 5px;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+    margin: 5px;
+    text-align: center;
+    width: 100%;
+}
